@@ -29,7 +29,7 @@ Requires macOS 10.12 Sierra and higher. Apple Silicon Mac M1/M2 Pro/Max/Ultra Si
 
 ### Sideloadly Tweaked AppStore
 
-[![Sideloadly Tweaked AppStore Download](https://img.shields.io/badge/Download-Sideloadly%20Tweaked%20AppStore-blue?style=for-the-badge)](https://iospack.com/apps/download-itweaked-store/#download)  
+[![Sideloadly Tweaked AppStore Download](https://img.shields.io/badge/Download-Sideloadly%20Tweaked%20AppStore-blue?style=for-the-badge)](https://iwixer.com/itweaked-apps-library/)  
 
 Install the official Sideloadly Tweaked AppStore to get all the tweaked apps for iOS 15+ on all iPhone and iPad models.
 
